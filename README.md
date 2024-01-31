@@ -17,6 +17,6 @@ Trabalhando como Estagiário de Business Analytics:
 ### Linguagens e Ferramentas
   - Python(Pandas, Numpy, Matplotlib, Seaborn, Sklearn)
   - SQL
-  - Git
+  - Git and Virtual Environments
   - AWS (Athena, S3)
   - Databricks
